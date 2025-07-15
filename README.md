@@ -72,19 +72,12 @@ Currently, I am advancing my skills as an **SDET (Java)** while exploring modern
 
 ---
 
-### <a name="sql">SQL TASKS</a>
-
-- Utilized SQL queries to verify data integrity in regression testing stages.  
-- Wrote advanced queries to validate dataset consistency across CRM systems.  
-
----
-
 ### <a name="tools">TOOLS & TECHNOLOGIES</a>
 
 - **Manual Testing**: Regression Testing, Test Case Management  
-- **Automation**: Selenium, Java, CI/CD Pipelines (Dev.Azure)  
-- **Tools**: Jira Xray, SQL, Git  
-- **Communication**: Daily team collaboration in English.  
+- **Automation**: Selenium, TypeScript, CI/CD Pipelines (Dev.Azure)  
+- **Tools**: Jira Xray, SQL, Git, Dev.Azure 
+- **Communication**: Daily scrum team collaboration in English.  
 
 ---
 
@@ -99,15 +92,18 @@ Currently, I am advancing my skills as an **SDET (Java)** while exploring modern
 
 ### <a name="courses">COURSES</a>
 
+- **QA Automation JavaScript (Java)** [Done]  
+  Focus: Automation Basics, Automation Framework Design, JavaScript, TypeScript, CI/CD pipelines. 
+
 - **SDET (Java)** [In Progress]  
   Focus: Automation Framework Design, Advanced Java, CI/CD Integration.  
 
 ---
 
 ### **Contact Me**  
-:mailbox_with_mail: [Your Email Address]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)  
-🔗 [GitHub Profile](https://github.com/your-profile)
+:mailbox_with_mail: [megapascal5261@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/petro-martynenko-16769b252/)  
+🔗 [GitHub Profile](https://github.com/petrocket12)
 
 ---
 
