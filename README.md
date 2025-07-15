@@ -1,7 +1,3 @@
-# PM-QA-Engineer-Portfolio
-General QA Engineer Portfolio
-
-
 # SOFTWARE TESTER PORTFOLIO - PETRO MARTYNENKO
 
 #### TABLE OF CONTENTS
